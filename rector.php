@@ -56,7 +56,7 @@ return RectorConfig::configure()
     )
     ->withSets([
         SetList::DEAD_CODE,
-        LaravelLevelSetList::UP_TO_LARAVEL_120,
+        // LaravelLevelSetList::UP_TO_LARAVEL_120,
         LaravelSetList::LARAVEL_LEGACY_FACTORIES_TO_CLASSES,
         LaravelSetList::LARAVEL_CODE_QUALITY,
         LaravelSetList::LARAVEL_COLLECTION,
