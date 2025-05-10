@@ -1,0 +1,36 @@
+<?php
+
+return [
+    'save' => 'Lưu',
+    'cancel' => 'Hủy',
+    'update' => 'Cập nhật',
+    'delete' => 'Xóa',
+    'restore' => 'Khôi phục',
+    'force_delete' => 'Xóa vĩnh viễn',
+    'search' => 'Tìm kiếm',
+    'search_placeholder' => 'Nhập từ khóa',
+    'export' => 'Xuất file',
+    'import' => 'Nhập file',
+    'no_data' => 'Không có dữ liệu',
+    'actions' => [
+        'actions' => 'Thao tác',
+        'create' => 'Tạo mới',
+        'edit' => 'Chỉnh sửa',
+        'show' => 'Xem',
+        'force_restore' => 'Khôi phục vĩnh viễn',
+        'force_delete' => 'Xóa vĩnh viễn',
+        'bulk_delete' => 'Xóa các mục',
+        'confirm_delete' => 'Bạn có chắc chắn xóa mục này?',
+        'confirm_bulk_delete' => 'Bạn có chắc chắn xóa các mục này?',
+        'alert_no_selected' => 'Bạn chưa chọn mục nào để xoá.',
+        'clear_filters' => 'Xóa tìm kiếm',
+        'search' => 'Tìm kiếm',
+        'delete' => 'Xóa',
+    ],
+    'status' => [
+        'active' => 'Hoạt động',
+        'inactive' => 'Không hoạt động',
+    ],
+    'selected_count' => 'Chọn :count mục',
+    'back' => 'Quay lại',
+];
